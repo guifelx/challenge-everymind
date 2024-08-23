@@ -1,0 +1,36 @@
+@model EverymindChallenge.Models.Produto;
+
+@{
+    ViewData["Tittle"] = "Editar Produto";
+}
+<div class="main__content">
+    <div class="titulo">
+        <h1>Editar Produto</h1>
+    </div>
+    <div class="editar">
+        <form class="editar__produto" asp-action="Editar">
+            <div>
+                <label hidden asp-for="Codigo"></label>
+                <input asp-for="Codigo" class="editar__produto__input" placeholder="Código"/>
+            </div>
+            <div>
+                <label hidden asp-for="Nome"></label>
+                <input asp-for="Nome" class="editar__produto__input" placeholder="Nome"/>
+            </div>
+            <div>
+                <label hidden asp-for="PrecoProduto"></label>
+                <input asp-for="PrecoProduto" class="editar__produto__input" placeholder="PrecoProduto"/>
+            </div>
+            <div>
+                <label hidden asp-for="Descricao"></label>
+                <input asp-for="Descricao" class="editar__produto__input" placeholder="Descrição"/>
+            </div>
+            <div>
+                <button type="submit" value="Editar" class="btn-padrao" />Editar</button>
+            </div>
+            <div>
+                <a class="voltar-link" asp-action="Index">Voltar</a>
+            </div>
+        </form>
+    </div>   
+</div>

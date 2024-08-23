@@ -1,0 +1,61 @@
+@model EverymindChallenge.Models.Produto; 
+
+@{
+    ViewData["Title"] = "Deletar Produto";
+}
+
+
+<div class="main__content">
+    <div class="titulo">
+        <h2>Deletar produto?</h2>
+    </div>
+
+    <div class="detalhes">
+        <dl class="detalhes__produto">
+            <dt class="detalhes__produto__topico">
+                @Html.DisplayNameFor(x => x.Codigo)
+            </dt>
+            <dt>
+                @Html.DisplayFor(x => x.Codigo)
+            </dt>
+        </dl>
+        <dl class="detalhes__produto">
+            <dt class="detalhes__produto__topico">
+                @Html.DisplayNameFor(x => x.Nome)
+            </dt>
+            <dt>
+                @Html.DisplayFor(x => x.Nome)
+            </dt>
+        </dl>
+        <dl class="detalhes__produto">
+            <dt class="detalhes__produto__topico">
+                @Html.DisplayNameFor(x => x.PrecoProduto)
+            </dt>
+            <dt>
+                @Html.DisplayFor(x => x.PrecoProduto)
+            </dt>
+        </dl>
+        <dl class="detalhes__produto">
+            <dt class="detalhes__produto__topico">
+                @Html.DisplayNameFor(x => x.Descricao)
+            </dt>
+            <dt>
+                @Html.DisplayFor(x => x.Descricao)
+            </dt>
+        </dl>
+        </dl>
+        <div class="container-btn-detalhes">
+            <form asp-action="Deletar">
+                <button type="submit" value="Deletar" class="btn-deletar">Deletar</button>
+            </form>
+            <div >
+                <a class="voltar-link" asp-action="Index">Voltar</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<br>

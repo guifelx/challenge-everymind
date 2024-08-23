@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Guilherme Felix\\Desktop\\Desafio_Everymind\\EverymindChallenge\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EverymindChallenge.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EverymindChallenge.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme Felix\\Desktop\\Desafio_Everymind\\EverymindChallenge\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme Felix\\Desktop\\Desafio_Everymind\\EverymindChallenge\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EverymindChallenge.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EverymindChallenge.props",
+      "PackagePath": "build\\EverymindChallenge.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EverymindChallenge.props",
+      "PackagePath": "buildMultiTargeting\\EverymindChallenge.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EverymindChallenge.props",
+      "PackagePath": "buildTransitive\\EverymindChallenge.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
