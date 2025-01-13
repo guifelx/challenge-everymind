@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jgjTJrADq34tBS/PWo1RLUmRtgE79Hg5nF11QvcF3VWrlODUsB6jPnIA3hAdelsTusoJf7q/IYa8srvrJ1KU5w==",
+  "dgSpecHash": "RHN/PHeAiaAPE1sRBckeHes3c7AC22PGfwPBad2YJd9stTfTVKMFQcp8v7iYPFXI3Dh4LglnkX7QuINw6UwKdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme Felix\\Desktop\\Desafio_Everymind\\EverymindChallenge\\EverymindChallenge.csproj",
+  "projectFilePath": "C:\\Users\\Guilherme Felix\\Desktop\\Programação\\Desafio_Everymind\\EverymindChallenge\\EverymindChallenge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guilherme Felix\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Guilherme Felix\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

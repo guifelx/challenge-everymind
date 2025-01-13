@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guilherme Felix\\Desktop\\Desafio_Everymind\\EverymindChallenge\\EverymindChallenge.csproj": {}
+    "C:\\Users\\Guilherme Felix\\Desktop\\Programação\\Desafio_Everymind\\EverymindChallenge\\EverymindChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guilherme Felix\\Desktop\\Desafio_Everymind\\EverymindChallenge\\EverymindChallenge.csproj": {
+    "C:\\Users\\Guilherme Felix\\Desktop\\Programação\\Desafio_Everymind\\EverymindChallenge\\EverymindChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guilherme Felix\\Desktop\\Desafio_Everymind\\EverymindChallenge\\EverymindChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\Guilherme Felix\\Desktop\\Programação\\Desafio_Everymind\\EverymindChallenge\\EverymindChallenge.csproj",
         "projectName": "EverymindChallenge",
-        "projectPath": "C:\\Users\\Guilherme Felix\\Desktop\\Desafio_Everymind\\EverymindChallenge\\EverymindChallenge.csproj",
+        "projectPath": "C:\\Users\\Guilherme Felix\\Desktop\\Programação\\Desafio_Everymind\\EverymindChallenge\\EverymindChallenge.csproj",
         "packagesPath": "C:\\Users\\Guilherme Felix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guilherme Felix\\Desktop\\Desafio_Everymind\\EverymindChallenge\\obj\\",
+        "outputPath": "C:\\Users\\Guilherme Felix\\Desktop\\Programação\\Desafio_Everymind\\EverymindChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guilherme Felix\\AppData\\Roaming\\NuGet\\NuGet.Config"
